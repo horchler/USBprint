@@ -1,6 +1,6 @@
 USBprint
 ==========
-#####A Library for fast convenient ```printf```-style printing with TI Tiva C (Stellaris) series microcontrollers
+#####A Library for fast convenient ```printf```-style printing with [TI Tiva C (Stellaris) series LaunchPad microcontrollers](http://www.ti.com/ww/en/launchpad/launchpads-connected.html)
 ######Version 1.1, 5-8-16######
 
 Features and benefits of ```printf```-style functions vs. the default ```Serial.print```
@@ -14,7 +14,7 @@ Current limitations
  - Optimize performance by using lower level functions 
 
 Installation
- 1. Quit the Energia IDE application.
+ 1. Quit the [Energia IDE](http://energia.nu/) application.
  2. Download and expand the ZIP archive of the USBprint repository. Rename the resultant folder *USBprint*.
  3. Locate the *libraries* folder for the Energia IDE and place the *USBprint* folder there. On OS X, this folder is in *Documents/Energia/*. On Windows, it is located at *Documents\Energia\* (or possibly *My Documents\Energia\*).
  4. Relaunch the Energia IDE. "USBprint" should now appear under *File > Examples* and *Sketch > Import Library...*.
@@ -30,7 +30,7 @@ How to write from Tiva C series microcontrollers to PC via USB at high speed
  
 --------
 
-Another version of this library specific to the OpenCM9.04 microcontroller, is included as part of my [DynamixelQ library](https://github.com/horchler/DynamixelQ/tree/master/USBprint).
+Another version of this library specific to the [OpenCM9.04 microcontroller](http://support.robotis.com/en/product/auxdevice/controller/opencm9.04.htm), is included as part of my [DynamixelQ library](https://github.com/horchler/DynamixelQ/tree/master/USBprint).
 
 --------
 
