@@ -30,7 +30,7 @@ How to write from Tiva C series microcontrollers to PC via USB at high speed
  
 --------
 
-Another version of this library specific to the OpenCM9.04 microcontroller, is included as part of my [DynamixelQ library](https://github.com/horchler/DynamixelQ): [USBprint](https://github.com/horchler/DynamixelQ/tree/master/USBprint).
+Another version of this library specific to the OpenCM9.04 microcontroller, is included as part of my [DynamixelQ library](https://github.com/horchler/DynamixelQ/tree/master/USBprint).
 
 --------
 
