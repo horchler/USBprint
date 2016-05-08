@@ -23,7 +23,7 @@ Installation
 
 How to write from Tiva C series microcontrollers to PC via USB at high speed
  - Minimize number of individual USB serial write operations.
- - Use the fast ```printf``-style functions in USBprint.
+ - Use the fast ```printf```-style functions in USBprint.
  - Increase baud rate between microcontroller and computer.
  - Reduce the [USB latency time](http://robosavvy.com/forum/viewtopic.php?p=8967#p8967) (Windows).
  - Send encoded (compressed) data and decompress later on PC.
