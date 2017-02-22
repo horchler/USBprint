@@ -34,7 +34,7 @@ Another version of this library specific to the [OpenCM9.04 microcontroller](htt
 
 --------
 
-Andrew D. Horchler, *horchler @ gmail .com*, [biorobots.case.edu](http://biorobots.case.edu/)  
+Andrew D. Horchler, *horchler @ gmail . com*, [biorobots.case.edu](http://biorobots.case.edu/)  
 Created: 8-24-14, Revision: 1.1, 5-8-16  
 &nbsp;  
 

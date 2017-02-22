@@ -1,7 +1,7 @@
 /*
  *	USBprint.h
  *	
- *	Author: Andrew D. Horchler, horchler @ gmail .com
+ *	Author: Andrew D. Horchler, horchler @ gmail . com
  *	Created: 8-24-14, modified: 5-8-16
  */
  
