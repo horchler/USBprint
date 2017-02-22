@@ -34,7 +34,13 @@ Another version of this library specific to the [OpenCM9.04 microcontroller](htt
 
 --------
 
-Copyright &copy; 2014&ndash;2016, Andrew D. Horchler  
+Andrew D. Horchler, *horchler @ gmail . com*, [biorobots.case.edu](http://biorobots.case.edu/)  
+Created: 8-24-14, Revision: 1.1, 5-8-16  
+&nbsp;  
+
+--------
+
+Copyright &copy; 2014&ndash;2017, Andrew D. Horchler  
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
