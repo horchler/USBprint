@@ -1,5 +1,5 @@
 USBprint
-Andrew D. Horchler, horchler @ gmail . com, http://biorobots.case.edu 
+Andrew D. Horchler, horchler @ gmail .com, http://biorobots.case.edu 
  * Library for fast convenient *printf style printing with Tiva C series microcontrollers.
 
 

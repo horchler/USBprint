@@ -5,7 +5,7 @@
  *      
  *	Change Serial Monitor baud rate to 115200 or adjust Serial.begin() baud rate below.
  *	
- *	Author: Andrew D. Horchler, horchler @ gmail . com
+ *	Author: Andrew D. Horchler, horchler @ gmail .com
  *	Created: 4-29-16, modified: 5-8-16
  */
 
