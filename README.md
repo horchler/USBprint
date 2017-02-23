@@ -2,6 +2,7 @@ USBprint
 ==========
 #####A Library for fast convenient ```printf```-style printing with [TI Tiva C (Stellaris) series LaunchPad microcontrollers](http://www.ti.com/ww/en/launchpad/launchpads-connected.html)
 ######Version 1.1, 5-8-16######
+#####Download Repository: [ZIP Archive](https://github.com/horchler/USBprint/archive/master.zip)#####
 
 Features and benefits of ```printf```-style functions vs. the default ```Serial.print```
  - The ability to convert and transmit multiple values all at once results in faster communication.
@@ -11,7 +12,7 @@ Features and benefits of ```printf```-style functions vs. the default ```Serial.
  
 Current limitations
  - Examples and testing needed.
- - Optimize performance by using lower level functions 
+ - Performance could be optimized by using lower level functions. 
 
 Installation
  1. Quit the [Energia IDE](http://energia.nu/) application.
